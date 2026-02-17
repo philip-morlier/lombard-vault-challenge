@@ -1,0 +1,12 @@
+Vault: Lombard DeFi Vault
+APY: x%
+TVL: $x
+Token: x (x decimals)
+
+Wallet: 0x...
+Balance before: 0.000000
+Depositing...
+Balance after: 0.000001
+Withdrawing...
+Balance final: 0.000000
+✅ Complete!
